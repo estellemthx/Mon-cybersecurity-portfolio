@@ -17,4 +17,4 @@ Notes, labs et write-ups de mon parcours de 45 semaines
 6. Finition du portfolio et alternance (juil. - août 2027)
 
 ## Contact
-LinkedIn : 
+LinkedIn : https://www.linkedin.com/in/estelle-monthieux/

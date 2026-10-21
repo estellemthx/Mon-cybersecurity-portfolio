@@ -11,12 +11,12 @@
 - find : cherche les fichiers par noms
 - & : lance la 1ère commande en arrière-plan sans attendre qu’elle finisse 
 - && : lance la 2eme commande seulement si la 1ère  réussi (effet domino)
-- > : envoie le résultat dans fichier en écrasant ce qui s’y trouvait 
-- >> : ajoute le résultat à la fin du fichier sans rien écraser
+- “>” : envoie le résultat dans fichier en écrasant ce qui s’y trouvait 
+- ”>>” : ajoute le résultat à la fin du fichier sans rien écraser
 
 
 ## Difficultés rencontrées
-- Erreur "No such file or directory" : écrire le chemin complet (dossier/fichier) et faire attention à la syntaxe.
+Erreur "No such file or directory" : écrire le chemin complet (dossier/fichier) et faire attention à la syntaxe.
 
 ## Ce que j'ai retenu
 Linux est strict : une lettre en moins et la commande échoue néanmoins Linux est logique et orgnisé 
